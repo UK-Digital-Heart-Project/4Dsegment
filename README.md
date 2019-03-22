@@ -1,4 +1,4 @@
-# Deep learning cardiac segmentation and motion tracking (4D*segment*)
+# Deep learning cardiac segmentation and motion tracking (4D*segment*) [![DOI](https://zenodo.org/badge/177131553.svg)](https://zenodo.org/badge/latestdoi/177131553)
 
 ![](data/screen.gif)
 :--:
